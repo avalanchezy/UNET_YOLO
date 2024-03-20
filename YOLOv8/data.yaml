@@ -1,0 +1,11 @@
+
+path: datasets
+train: train
+val: val
+test: test
+
+nc: 2
+names:
+    0: background
+    1: lesion
+    
